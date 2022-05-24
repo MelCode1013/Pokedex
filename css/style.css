@@ -6,9 +6,9 @@ body {
 }
 
 .pokedex {
-    background-image: url('/img/pokedex.png');
+    background-image: url('../img/pokedex.png');
     height: 600px;
-    width:800px;
+    width:790px;
     display: flex;
    
 }
